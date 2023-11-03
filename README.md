@@ -3,25 +3,6 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <title>Data Collection and Feature Extraction - Documentation</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-        }
-        .container {
-            width: 75%;
-            margin: auto;
-            padding: 20px;
-        }
-        code {
-            background-color: #f4f4f4;
-            padding: 2px 5px;
-            border-radius: 3px;
-            font-family: "Courier New", Courier, monospace;
-        }
-    </style>
 </head>
 <body>
     <div class="container">
